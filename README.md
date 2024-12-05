@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jieun's%20Portfolio&fontSize=70)
+
+
 # 제목1
 ## 제목2
 
@@ -8,7 +11,6 @@
 다음 문장입니다
 
 **굵게**
-** 굵게 **
 
 > 언제나 당신의 열정이 곧 당신의 결정 - 인피닛 플로우
 
@@ -24,6 +26,3 @@
 
 [노션으로 이동](https://naver.com)
 
-![신짱구](https://imgur.com/d38VchT)
-
-![토끼](https://imgur.com/a/aEnTbnp)

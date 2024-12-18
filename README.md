@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jieun's%20Portfolio&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jieun's%20Portfolio&fontSize=75)
 
 
-# 제목1
-## 제목2
+## 안녕하세요! 데이터분석가 성지은입니다.
 
 
 
@@ -22,5 +21,5 @@ print('헬로')
 여러줄 넘깁니다
 ```
 
-[노션으로 이동](https://naver.com)
+[포트폴리오](https://naver.com)
 

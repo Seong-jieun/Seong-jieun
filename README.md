@@ -10,11 +10,11 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ### Personal Information
 > 📅생년월일 : 1993.04.15
 > 
-> 🏠거주지 : 대한민국 부산거주
+> 🏠거주지 : 대한민국 부산
 > 
 > ✉️E-Mail : sje000012@gmail.com
 > 
-> 📋포트폴리오 [보러가기](주소)
+> 📋포트폴리오 [보러가기](https://github.com/Seong-jieun, "누르시면 노션 포트폴리오로 이동합니다")
 
 ### Skills
 **📊Languages&Tools**
@@ -28,8 +28,8 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **💻OA**
 

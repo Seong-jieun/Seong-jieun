@@ -12,7 +12,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 > 
 > 🏠거주지 : 대한민국 부산
 > 
-> ✉️E-Mail : sje000012@gmail.com
+> ✉️E-mail : sje000012@gmail.com
 > 
 > 📋포트폴리오 [보러가기](https://github.com/Seong-jieun, "누르시면 노션 포트폴리오로 이동합니다")
 
@@ -41,8 +41,17 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 - SQLD (SQL 개발자)
 - ADsP (데이터분석 준전문가)
 
+
 ---
 # Projects
-1. 
+### 1. Olist 이커머스 데이터 분석 프로젝트
+- 
+
+### 2. 은행 고객 이탈 확률 분석 프로젝트
+-
+
+### 3. 간편식 소비 현황 및 트렌드 분석 프로젝트
+- 
 
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeong-jieun&count_bg=%2379AFEA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/Seong-jieun))

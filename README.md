@@ -14,7 +14,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 > 
 > ✉️E-mail : sje000012@gmail.com
 > 
-> 📋포트폴리오 [보러가기](https://github.com/Seong-jieun, "누르면 노션 포트폴리오로 이동합니다")
+> 📋노션 포트폴리오 [보러가기](https://github.com/Seong-jieun, "누르면 노션 포트폴리오로 이동합니다")
 
 
 ### Skills
@@ -46,16 +46,20 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 ---
-# Projects
+## Projects
 ### 1. Olist 이커머스 데이터 분석 프로젝트
-- 
+- 브라질 이커머스 기업 Olist의 데이터(고객, 주문, 결제 등, 데이콘 제공)를 분석
+- 핵심 성과 지표(KPI)도출과 비즈니스 전략을 수립
+
 
 ### 2. 은행 고객 이탈 확률 분석 프로젝트
--
+- ABC Multistate bank의 데이터(캐글 제공)를 활용하여 은행 고객의 이탈확률을 예측한 프로젝트
+- 머신러닝 모델링 및 이탈 방지를 위한 인사이트 제안
+
 
 ### 3. 간편식 소비 현황 및 트렌드 분석 프로젝트
-- 
-
+- 공공데이터를 활용하여 간편식 소비 현황과 트렌드 분석
+- 간편식 기획 및 제조시 고려해야할 사항과 타겟 소비 집단 제시
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeong-jieun&count_bg=%2379AFEA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]([https://hits.seeyoufarm.com](https://github.com/Seong-jieun))

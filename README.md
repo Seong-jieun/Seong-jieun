@@ -14,7 +14,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 > 
 > ✉️E-mail : sje000012@gmail.com
 > 
-> 📋노션 포트폴리오 [보러가기](https://cosmic-tourmaline-f3b.notion.site/s-Portfolio-12ab2fb284974c43810f9f6de4348335?pvs=4), "누르면 노션 포트폴리오로 이동합니다")
+> 📋노션 포트폴리오 [👉보러가기](https://cosmic-tourmaline-f3b.notion.site/s-Portfolio-12ab2fb284974c43810f9f6de4348335?pvs=4, "누르면 노션 포트폴리오로 이동합니다")
 
 
 ### Skills

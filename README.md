@@ -24,14 +24,12 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-
 **🤲Co-work**
 
 ![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 ![zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 
 **💻OA**
 
@@ -43,19 +41,16 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 - SQLD (SQL 개발자)
 - ADsP (데이터분석 준전문가)
 
-
 ---
 ## Projects
 ### 1. Olist 이커머스 데이터 분석 프로젝트
 - 브라질 이커머스 기업 Olist의 데이터(고객, 주문, 결제 등, 데이콘 제공) 분석
 - 핵심 성과 지표(KPI)도출과 비즈니스 전략 수립
 
-
 ### 2. 은행 고객 이탈 확률 분석 프로젝트
 - ABC Multistate bank의 데이터(캐글 제공)를 활용한 은행 고객의 이탈 확률 예측 프로젝트
 - 머신러닝 모델링
 - 고객 이탈 방지를 위한 인사이트 제안
-
 
 ### 3. 간편식 소비 현황 및 트렌드 분석 프로젝트
 - 공공데이터를 활용한 간편식 소비 현황과 트렌드 분석

@@ -7,17 +7,14 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 데이터 속에 담긴 이야기를 누구에게나 쉽게 전달할 수 있는 **친절한 데이터 분석가**가 되는 것이 목표입니다.
 
-### Personal Information
-> 📅 생년월일 : 1993.04.15
-> 
-> 🏠 거주지 : 대한민국 부산
-> 
-> ✉️ E-mail : sje000012@gmail.com
-> 
-> 📋 노션 포트폴리오 [👉보러가기](https://www.notion.so/s-Portfolio-12ab2fb284974c43810f9f6de4348335 "누르면 노션 포트폴리오로 이동합니다")
+## Personal Information
+- 📅 생년월일 : 1993.04.15
+- 🏠 거주지 : 대한민국 부산
+- ✉️ E-mail : sje000012@gmail.com
+- 📋 노션 포트폴리오 [👉보러가기](https://www.notion.so/s-Portfolio-12ab2fb284974c43810f9f6de4348335 "누르면 노션 포트폴리오로 이동합니다")
 
 
-### Skills
+## Skills
 **📊Languages&Tools**
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +34,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 
-### Certification
+## Certification
 - SQLD (SQL 개발자)
 - ADsP (데이터분석 준전문가)
 

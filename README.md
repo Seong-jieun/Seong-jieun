@@ -40,7 +40,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ## Projects
 ### 1. [Olist 이커머스 데이터 분석 프로젝트](https://github.com/Seong-jieun/OlaDadus)
 
-### 2. [은행 고객 이탈 확률 분석 프로젝트](https://github.com/Seong-jieun/bankchurn)
+### 2. [ABC Multistate Bank 데이터 분석 프로젝트](https://github.com/Seong-jieun/bankchurn)
 
 ### 3. [간편식 소비 현황 및 트렌드 분석 프로젝트](https://github.com/Seong-jieun/hmrtrend)
 

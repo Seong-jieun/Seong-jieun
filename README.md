@@ -38,17 +38,12 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 ## Projects
-### 1. Olist 이커머스 데이터 분석 프로젝트
-- 브라질 이커머스 기업 Olist의 데이터(고객, 주문, 결제 등, 데이콘 제공)를 분석한 프로젝트
-- 핵심 성과 지표(KPI)도출과 비즈니스 전략 수립
+### 1. [Olist 이커머스 데이터 분석 프로젝트](https://github.com/Seong-jieun/OlaDadus)
 
-### 2. 은행 고객 이탈 확률 분석 프로젝트
-- ABC Multistate bank의 데이터(캐글 제공)를 활용한 은행 고객의 이탈 확률 예측 프로젝트
-- 고객 이탈 방지를 위한 비즈니스 전략 제안
+### 2. [은행 고객 이탈 확률 분석 프로젝트](https://github.com/Seong-jieun/bankchurn)
 
-### 3. 간편식 소비 현황 및 트렌드 분석 프로젝트
-- 공공데이터를 활용한 간편식 소비 현황과 트렌드 분석
-- 간편식 기획 및 제조시 고려해야할 사항과 타겟 소비 집단 제시
+### 3. [간편식 소비 현황 및 트렌드 분석 프로젝트](https://github.com/Seong-jieun/hmrtrend)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

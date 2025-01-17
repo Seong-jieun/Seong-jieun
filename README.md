@@ -45,5 +45,4 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ### 3. [간편식 소비 현황 및 트렌드 분석 프로젝트](https://github.com/Seong-jieun/hmrtrend)
 
 
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

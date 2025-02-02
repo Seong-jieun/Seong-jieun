@@ -11,7 +11,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 ## Skills
-**📊Languages&Tools**
+**⚒️Languages&Tools**
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,11 +39,17 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 ## Projects
-### 1. [Olist 이커머스 데이터 분석 프로젝트](https://github.com/Seong-jieun/OlaDadus)
+**▶️ 고객 분석**
+- [Olist 이커머스 고객 데이터 분석](https://github.com/Seong-jieun/OlaDadus)
+- [ABC Multistate Bank 고객 이탈 확률 분석](https://github.com/Seong-jieun/bankchurn)
 
-### 2. [ABC Multistate Bank 데이터 분석 프로젝트](https://github.com/Seong-jieun/bankchurn)
 
-### 3. [간편식 소비 현황 및 트렌드 분석 프로젝트](https://github.com/Seong-jieun/hmrtrend)
+**▶️ 트렌드 분석**
+- [간편식 소비 현황 트렌드 분석](https://github.com/Seong-jieun/hmrtrend)
+
+
+**▶️ 광고 분석**
+- [Facebook Ad Campaign 데이터 분석](https://github.com/Seong-jieun/fb_ad_campaign_analysis)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

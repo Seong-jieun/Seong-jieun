@@ -45,7 +45,8 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 **▶️ 트렌드 분석**
-- [간편식 소비 현황 트렌드 분석](https://github.com/Seong-jieun/hmrtrend)
+- [간편식 소비 현황 & 트렌드 분석](https://github.com/Seong-jieun/hmrtrend)
+- [Netflix 트렌드 분석](https://github.com/Seong-jieun/netflix_eda)
 
 
 **▶️ 광고 분석**

@@ -46,12 +46,14 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 **▶️ 트렌드 분석**
 - [간편식 소비 현황 & 트렌드 분석](https://github.com/Seong-jieun/hmrtrend)
-- [Netflix 데이터 분석](https://github.com/Seong-jieun/netflix_eda)
-- [Goodreads Books 데이터 분석](https://github.com/Seong-jieun/goodreads_books_eda)
 
 
 **▶️ 광고 분석**
-- [Facebook Ad Campaign 데이터 분석](https://github.com/Seong-jieun/fb_ad_campaign_analysis)
+- [Facebook 광고 데이터 분석](https://github.com/Seong-jieun/fb_ad_campaign_analysis)
 
+
+**▶️ 태블로 대시보드 제작**
+- [Netflix 데이터 분석](https://github.com/Seong-jieun/netflix_eda)
+- [Goodreads Books 데이터 분석](https://github.com/Seong-jieun/goodreads_books_eda)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

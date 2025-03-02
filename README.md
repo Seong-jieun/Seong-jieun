@@ -41,7 +41,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 ## Projects
 **▶️ 고객 분석**
-- [Olist 이커머스 데이터 분석과 KPI 도출](https://github.com/Seong-jieun/OlaDadus)
+- [Olist 이커머스 데이터 분석을 통한 세 가지 KPI 도출](https://github.com/Seong-jieun/OlaDadus)
 - [ABC Multistate Bank 고객 이탈 확률 분석](https://github.com/Seong-jieun/bankchurn)
 
 
@@ -50,11 +50,11 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 **▶️ 광고 분석**
-- [Facebook 광고 데이터를 활용한 전환률 분석](https://github.com/Seong-jieun/fb_ad_campaign_analysis)
+- [Facebook 광고 데이터를 활용한 전환률 분석](https://github.com/Seong-jieun/Toy_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
 
 
 **▶️ 태블로 대시보드 제작**
-- [넷플릭스 데이터 대시보드](https://github.com/Seong-jieun/netflix_eda)
-- [Goodreads 데이터 대시보드](https://github.com/Seong-jieun/goodreads_books_eda)
+- [넷플릭스 데이터 대시보드](https://github.com/Seong-jieun/Tableau_Dashboard)
+- [Goodreads 데이터 대시보드](https://github.com/Seong-jieun/Tableau_Dashboard)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

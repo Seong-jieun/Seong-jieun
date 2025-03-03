@@ -42,15 +42,24 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 ## Projects
 **▶️ 고객 분석**
-- [Olist 이안](https://github.com/Seong-jieun/hmrtrend)
+- [Olist 이커머스 데이터 분석을 통한 세 가지 KPI도출](https://github.com/Seong-jieun/olist_ecommerce_analysis)
+- [ABC Multistate Bank 고객 이탈 확률 분석](https://github.com/Seong-jieun/bankchurn_analysis)
+
+
+**▶️ 트렌드 분석**
+- [국내 간편식 시장 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
 
 
 **▶️ 광고 분석**
 - [Facebook 광고 데이터를 활용한 전환률 분석](https://github.com/Seong-jieun/Toy_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
 
 
+**▶️ 토이 프로젝트**
+- [리포지토리 보러가기](https://github.com/Seong-jieun/Toy_Project)
+
+  
 **▶️ 태블로 대시보드 제작**
-- [넷플릭스 데이터 대시보드](https://github.com/Seong-jieun/Tableau_Dashboard)
-- [Goodreads 데이터 대시보드](https://github.com/Seong-jieun/Tableau_Dashboard)
+- [리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard)
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

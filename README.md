@@ -29,6 +29,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 **💻OA**
 
+![googledocs](https://img.shields.io/badge/GoogleDocs-4285F4?style=for-the-badge&logo=GoogleDocs&logoColor=white)
 ![powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
@@ -41,12 +42,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 ## Projects
 **▶️ 고객 분석**
-- [Olist 이커머스 데이터 분석을 통한 세 가지 KPI 도출](https://github.com/Seong-jieun/OlaDadus)
-- [ABC Multistate Bank 고객 이탈 확률 분석](https://github.com/Seong-jieun/bankchurn)
-
-
-**▶️ 트렌드 분석**
-- [간편식 소비 현황 & 트렌드 분석](https://github.com/Seong-jieun/hmrtrend)
+- [Olist 이안](https://github.com/Seong-jieun/hmrtrend)
 
 
 **▶️ 광고 분석**

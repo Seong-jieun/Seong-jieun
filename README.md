@@ -53,11 +53,11 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 **▶️ 토이 프로젝트**
-- [👉리포지토리 보러가기](https://github.com/Seong-jieun/Toy_Project "누르면 리포지토리로 이동합니다")
+- [리포지토리 보러가기](https://github.com/Seong-jieun/Toy_Project "누르면 리포지토리로 이동합니다")
 
   
 **▶️ 태블로 대시보드 제작**
-- [👉리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
+- [리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

@@ -20,7 +20,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 **🤲Co-work**
 
-![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![notion](https://img.shields.io/badge/Notion-faf1db?style=for-the-badge&logo=notion&logoColor=black)
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white")
 
@@ -47,11 +47,11 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 
 **▶️ 광고 분석**
-- [Facebook 광고 데이터를 활용한 전환률 분석](https://github.com/Seong-jieun/Toy_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
+- [Facebook 광고 데이터를 활용한 전환율 분석](https://github.com/Seong-jieun/Personal_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
 
 
-**▶️ 토이 프로젝트**
-- [리포지토리 보러가기](https://github.com/Seong-jieun/Toy_Project "누르면 리포지토리로 이동합니다")
+**▶️ 개인 프로젝트**
+- [리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
 
   
 **▶️ 태블로 대시보드 제작**

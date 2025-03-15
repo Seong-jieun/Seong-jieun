@@ -50,10 +50,10 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 - [Facebook 광고 데이터를 활용한 전환율 분석](https://github.com/Seong-jieun/Personal_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
 
 
-**🔹 개인 프로젝트**  [(리포지토리 보러가기)](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
+**🔹 개인 프로젝트**  [ >리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
 
   
-**🔹 태블로 대시보드 제작**  [(리포지토리 보러가기)](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
+**🔹 태블로 대시보드 제작**  [ >리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

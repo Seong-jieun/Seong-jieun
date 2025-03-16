@@ -20,7 +20,7 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 
 **🤲Co-work**
 
-![notion](https://img.shields.io/badge/Notion-e3effc?style=for-the-badge&logo=notion&logoColor=black)
+![notion](https://img.shields.io/badge/Notion-fbf5cf?style=for-the-badge&logo=notion&logoColor=black)
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white")
 

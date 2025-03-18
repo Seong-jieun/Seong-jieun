@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jieun's%20Portfolio&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jieun's%20GitHub&fontSize=60)
 
 ## 😄안녕하세요! 데이터분석가 성지은입니다.
 Python, SQL 기반 주니어 데이터 분석가 성지은입니다.

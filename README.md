@@ -31,9 +31,6 @@ Python, SQL 기반 주니어 데이터 분석가 성지은입니다.
 ![msoffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-## Certification
-- SQLD (SQL 개발자)
-- ADsP (데이터분석 준전문가)
 
 
 ## Projects

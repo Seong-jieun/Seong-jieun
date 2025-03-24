@@ -39,11 +39,7 @@
 
 
 **🔹 트렌드 분석**
-- [국내 간편식 시장 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
-
-
-**🔹 광고 분석**
-- [Facebook 광고 데이터를 활용한 전환율 분석](https://github.com/Seong-jieun/Personal_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
+- [국내안](https://github.com/Seong-jieun/Personal_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
 
 
 **🔹 개인 프로젝트**  [▶리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")

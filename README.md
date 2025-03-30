@@ -19,15 +19,15 @@
 
 **🤲Co-work**
 
-![notion](https://img.shields.io/badge/Notion-fbf5cf?style=for-the-badge&logo=notion&logoColor=black)
+![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white")
+![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
 **💻OA**
 
-![googledocs](https://img.shields.io/badge/GoogleDocs-4285F4?style=for-the-badge&logo=GoogleDocs&logoColor=white)
-![msoffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![googledocs](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
 

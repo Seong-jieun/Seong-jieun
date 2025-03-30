@@ -43,7 +43,7 @@
 
 
 **🔹 광고 분석**
-- [Facebook 광고 전환율 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/Personal_Project/tree/main/Facebook_Ad_Campaign_data_analysis)
+- [페이스북 광고 캠페인 전환율 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/Personal_Project)
 
 
 **🔹 개인 프로젝트**  [▶리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")

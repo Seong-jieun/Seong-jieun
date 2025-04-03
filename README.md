@@ -2,9 +2,9 @@
 
   
 ## 😄안녕하세요! 데이터분석가 성지은입니다.
-- 동료들과의 활발한 소통을 통해 성장하는 것을 좋아합니다.
-
 - 일상 속에 녹아있는 데이터를 발견하는 것에 흥미를 느낍니다.
+
+- 동료들과의 활발한 소통을 통해 성장하는 것을 좋아합니다.
 
 - 데이터 속에 담긴 이야기를 누구에게나 쉽게 전달할 수 있는 **친절한 데이터 분석가**가 되는 것이 목표입니다. 
 
@@ -18,6 +18,7 @@
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![googlespreadsheets](https://img.shields.io/badge/googlespreadsheets-34A853?style=for-the-badge&logo=googlespreadsheets&logoColor=white)
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
@@ -43,16 +44,18 @@
 
 
 **🔹 트렌드 분석**
-- [국내 간편식 시장 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
+- [국내 간편식 소비 트렌드 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
 
 
 **🔹 광고 분석**
 - [페이스북 광고 캠페인 전환율 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/Personal_Project)
 
 
-**🔹 개인 프로젝트**  [▶리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
+**🔹 개인 프로젝트** 
+- [▶ 리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
 
   
-**🔹 태블로 대시보드 제작**  [▶리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
+**🔹 태블로 대시보드 제작**  
+- [▶ 리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

@@ -39,12 +39,12 @@
 
 ## Projects
 **🔹 고객 분석**
-- [Olist 이커머스 데이터 분석을 통한 세 가지 KPI도출](https://github.com/Seong-jieun/olist_ecommerce_analysis)
-- [ABC Multistate Bank 고객 이탈 확률 분석](https://github.com/Seong-jieun/bankchurn_analysis)
+- [Olist의 시장 입지 강화를 위한 KPI 도출과 비즈니스 전략 제안](https://github.com/Seong-jieun/olist_ecommerce_analysis)
+- [ABC Multistate Bank 고객 이탈 확률 예측하기](https://github.com/Seong-jieun/bankchurn_analysis)
 
 
 **🔹 트렌드 분석**
-- [국내 간편식 소비 트렌드 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
+- [국내 간편식 시장 소비 트렌드 분석을 통한 비즈니스 타겟 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
 
 
 **🔹 광고 분석**

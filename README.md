@@ -39,23 +39,21 @@
 
 ## Projects
 **🔹 고객 분석**
-- [Olist의 시장 입지 강화를 위한 KPI 도출과 비즈니스 전략 제안](https://github.com/Seong-jieun/olist_ecommerce_analysis)
+- [Olist의 시장 입지 강화를 위한 KPI 도출과 비즈니스 전략 제안하기](https://github.com/Seong-jieun/olist_ecommerce_analysis)
 - [ABC Multistate Bank 고객 이탈 확률 예측하기](https://github.com/Seong-jieun/bankchurn_analysis)
-
+- [고객 특성을 이용한 고객 세분화 분석과 고객 그룹별 비즈니스 전략 제안하기](https://github.com/Seong-jieun/Personal_Project)
 
 **🔹 트렌드 분석**
-- [국내 간편식 시장 소비 트렌드 분석을 통한 비즈니스 타겟 제안](https://github.com/Seong-jieun/hmr_trend_analysis)
+- [국내 간편식 시장 소비 트렌드 분석을 통한 비즈니스 타겟 제안하기](https://github.com/Seong-jieun/hmr_trend_analysis)
 
 
 **🔹 광고 분석**
-- [페이스북 광고 캠페인 전환율 분석을 통한 비즈니스 전략 제안](https://github.com/Seong-jieun/Personal_Project)
+- [페이스북 광고 캠페인 전환율 분석을 통한 비즈니스 전략 제안하기](https://github.com/Seong-jieun/Personal_Project)
 
 
-**🔹 개인 프로젝트** 
-- [▶ 리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
+**🔹 개인 프로젝트 모음** [▶ 리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
 
   
-**🔹 태블로 대시보드 제작**  
-- [▶ 리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
+**🔹 태블로 대시보드 제작** [▶ 리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)

@@ -13,7 +13,7 @@
 ## Contacts
 **E-mail** sje000012@gmail.com
 
-**Portfolio** [▶ 포트폴리오 보러가기](https://t.ly/690An "누르면 노션 포트폴리오로 이동합니다") 
+**Portfolio** [포트폴리오 보러가기](https://t.ly/690An "누르면 노션 포트폴리오로 이동합니다") 
 
 
 ## Skills

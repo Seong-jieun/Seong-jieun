@@ -42,7 +42,7 @@
 
 
 ## Projects
-### 팀 프로젝트
+#### 팀 프로젝트
  [Olist의 시장 입지 강화를 위한 KPI 도출과 비즈니스 전략 제안](https://github.com/Seong-jieun/olist_ecommerce_analysis)
 
  [ABC Multistate Bank 고객 이탈 확률 예측하기](https://github.com/Seong-jieun/bankchurn_analysis)
@@ -50,11 +50,11 @@
  [간편식 시장에서 살아남기 위한 간편식 소비 트렌드 분석](https://github.com/Seong-jieun/hmr_trend_analysis)
 
 
-### 개인 프로젝트 모음
+#### 개인 프로젝트 모음
 [리포지토리 보러가기](https://github.com/Seong-jieun/Personal_Project "누르면 리포지토리로 이동합니다")
 
   
-### 태블로 대시보드 제작
+#### 태블로 대시보드 제작
 [리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
 

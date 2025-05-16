@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jieun's%20GitHub&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIEUN's%20GitHub&fontSize=60)
 
   
 ## 😄 안녕하세요! 데이터 분석가 성지은입니다.
@@ -12,10 +12,8 @@
 
 ## Contacts
 **E-mail** sje000012@gmail.com
-
-[**Portfolio**](https://t.ly/690An "누르면 노션 포트폴리오로 이동합니다")
-
-[**Tableau**](https://public.tableau.com/app/profile/.58926695/vizzes "누르면 태블로 퍼블릭 페이지로 이동합니다")
+| [**Portfolio**](https://t.ly/690An "누르면 노션 포트폴리오로 이동합니다")
+| [**Tableau**](https://public.tableau.com/app/profile/.58926695/vizzes "누르면 태블로 퍼블릭 페이지로 이동합니다")
 
 ## Skills
 **⚒️ Language & Tools**

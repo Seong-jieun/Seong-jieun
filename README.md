@@ -11,9 +11,9 @@
  데이터 속에 담긴 이야기를 누구에게나 쉽게 전달할 수 있는 **친절한 데이터 분석가**가 되는 것이 목표입니다. 
 
 ## Contacts
-**E-mail** sje000012@gmail.com
-| [**Portfolio**](https://t.ly/690An "누르면 노션 포트폴리오로 이동합니다")
-| [**Tableau**](https://public.tableau.com/app/profile/.58926695/vizzes "누르면 태블로 퍼블릭 페이지로 이동합니다")
+sje000012@gmail.com 
+| [Portfolio](https://t.ly/690An "누르면 노션 포트폴리오로 이동합니다")
+| [Tableau Public](https://public.tableau.com/app/profile/.58926695/vizzes "누르면 태블로 퍼블릭 페이지로 이동합니다")
 
 ## Skills
 **⚒️ Language & Tools**

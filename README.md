@@ -20,7 +20,7 @@
 
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![googlespreadsheets](https://img.shields.io/badge/googlespreadsheets-34A853?style=for-the-badge&logo=googlespreadsheets&logoColor=white)
+![googlesheets](https://img.shields.io/badge/googlesheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 
@@ -35,6 +35,7 @@
 **💻 OA**
 
 ![googledocs](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)
+![googleslides](https://img.shields.io/badge/googleslides-FBBC04?style=for-the-badge&logo=googleslides&logoColor=black)
 ![microsoft-office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 

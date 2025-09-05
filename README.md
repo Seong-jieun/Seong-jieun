@@ -1,8 +1,5 @@
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JIEUN's%20GitHub&fontSize=60)
-
-  
+ 
 ## 😄 안녕하세요! 데이터 분석가 성지은입니다.
  일상 속에 녹아있는 데이터를 발견하는 것에 관심이 있습니다.
 
@@ -57,7 +54,5 @@
 #### 태블로 대시보드 제작
 [리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 </div>

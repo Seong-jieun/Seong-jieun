@@ -5,7 +5,7 @@
 
  동료들과의 활발한 소통을 통해 성장하는 것을 좋아합니다.
 
- 데이터 속에 담긴 이야기를 누구에게나 쉽게 전달할 수 있는 **친절한 데이터 분석가**가 되는 것이 목표입니다. 
+ 데이터 속에 담긴 이야기를 누구에게나 쉽게 전달할 수 있는 데이터 분석가가 되는 것이 목표입니다. 
 
 ## Contacts
 🗒️ [Portfolio](https://cosmic-tourmaline-f3b.notion.site/12ab2fb284974c43810f9f6de4348335 "누르면 노션 포트폴리오로 이동합니다")
@@ -18,7 +18,8 @@
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![googlesheets](https://img.shields.io/badge/googlesheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
-![tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![tableau](https://img.shields.io/badge/Tableau-003791?style=for-the-badge&logo=Tableau&logoColor=white)
+![power-bi](https://img.shields.io/badge/power_bi-FABF15?style=for-the-badge&logo=power-bi&logoColor=black)
 
 
 **🤲 Co-work**

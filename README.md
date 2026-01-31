@@ -10,7 +10,7 @@
 ## Contacts
 🗒️ [Portfolio](https://cosmic-tourmaline-f3b.notion.site/12ab2fb284974c43810f9f6de4348335 "누르면 노션 포트폴리오로 이동합니다")
 | 📩 sje000012@gmail.com
-| 📊 [Tableau Public](https://public.tableau.com/app/profile/.58926695/vizzes "누르면 태블로 퍼블릭 페이지로 이동합니다")
+
 
 ## Skills
 **⚒️ Language & Tools**

@@ -1,6 +1,6 @@
 <div align="center">
  
-## 😄 안녕하세요! 데이터 분석가 성지은입니다.
+## 안녕하세요! 데이터 분석가 성지은입니다.
  일상 속에 녹아있는 데이터를 발견하는 것에 관심이 있습니다.
 
  동료들과의 활발한 소통을 통해 성장하는 것을 좋아합니다.
@@ -16,6 +16,7 @@
 **⚒️ Language & Tools**
 
 ![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/Postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![googlesheets](https://img.shields.io/badge/googlesheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![tableau](https://img.shields.io/badge/Tableau-003791?style=for-the-badge&logo=Tableau&logoColor=white)

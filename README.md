@@ -1,6 +1,6 @@
-<div align="center">
+
  
-## 안녕하세요! 데이터 분석가 성지은입니다.
+## 🖐️ 안녕하세요! 데이터 분석가 성지은입니다.
  일상 속에 녹아있는 데이터를 발견하는 것에 관심이 있습니다.
 
  동료들과의 활발한 소통을 통해 성장하는 것을 좋아합니다.
@@ -54,7 +54,8 @@
 
   
 #### 태블로 대시보드 제작
-[리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
+[대시보드 보러가기](https://public.tableau.com/app/profile/.58926695/vizzes)
+| [리포지토리 보러가기](https://github.com/Seong-jieun/Tableau_Dashboard "누르면 리포지토리로 이동합니다")
 
 
-</div>
+
